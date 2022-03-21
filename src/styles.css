@@ -1,0 +1,75 @@
+.btn,
+.jumbotron,
+.nav :hover {
+	border-radius: 5px;
+}
+/* .nav {
+	position: fixed;
+	inset: 0;
+	top: 0%;
+	width: 100%;
+} */
+
+/* .product {
+	background-color: #e7e1d2;
+} */
+
+.primary-col {
+	background-color: #4c4c6d;
+}
+
+.secondary-col {
+	color: #ffe194;
+}
+
+#brand {
+	color: #ffe194;
+}
+
+.bg-sec {
+	background-color: #ffe194;
+}
+
+.btn {
+	border-width: 2px;
+}
+
+/* body {
+	background: #e8f6ef;
+} */
+
+#main-div {
+	min-height: 70vh;
+}
+
+/* .card-img {
+	max-width: 100px;
+	object-fit: contain; 
+	height: 180px;
+	 overflow: hidden;
+} */
+
+.error {
+	color: #ff0040;
+	margin: 10px 2px;
+	font-size: 0.8em;
+	font-weight: bold;
+}
+
+.btn-fixed {
+	overflow: auto;
+	position: fixed;
+	bottom: 40px;
+}
+
+.btn-right {
+	right: 5%;
+	left: auto;
+}
+
+footer {
+	position: relative;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+}
